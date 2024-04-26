@@ -64,6 +64,7 @@
 
 ### Exploratory Data Analysis of FitBit Data 🏃‍♂️📊
 - Conducted a comprehensive analysis of FitBit data to explore user health trends, analyzing metrics like daily steps, sleep patterns, and calorie expenditure.
+- [Explore the Project Details](./EDA.html)
 
 ### [Maximizing Your Machine Learning Pipeline](https://shivanisahu19.medium.com/maximizing-your-machine-learning-pipeline-a-comprehensive-guide-to-data-cleaning-feature-f292d4a7b301) 📘
 - Authored a guide on optimizing machine learning pipelines, covering data cleaning, feature selection, modeling, and interpretability.
