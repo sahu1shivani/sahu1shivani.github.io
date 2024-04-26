@@ -16,7 +16,7 @@ mobile: (+1) 857-390-4920
 email: sahu.shi@northeastern.edu  
 linkedin_url: https://www.linkedin.com/in/shivani-sahu
 logo: /Whitagram-Image.jpeg
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-remote-theme # Add other plugins here if needed
