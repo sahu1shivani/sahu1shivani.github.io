@@ -1,7 +1,6 @@
 # Shivani Sahu
 
 📍 **Location:** Boston, MA  
-📱 **Mobile:** (+1) 857-390-4920  
 📧 **Email:** sahu.shi@northeastern.edu  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/shivani-sahu)  
 
@@ -9,7 +8,7 @@
 
 ### Master of Science, Information Systems
 **Northeastern University**, Boston, MA  _May 2024_  
-**Related Coursework:** Software Development, Web Design and Development
+**Related Coursework:** Machine Learning, Data Science and Analytics.
 
 ### Bachelor of Engineering in Information Science
 **Visvesvaraya Technological University**, India  _May 2019_  
@@ -33,20 +32,12 @@
 
 ## Technical Skills 💻
 
-- **Programming Languages:** Apex, Java, JavaScript, Python
-- **Databases:** MySQL, SOQL
-- **Web Technologies & Frameworks:** REST API, SOAP API, Spring MVC, jQuery, Spring Boot, HTML, CSS
-- **Salesforce Skills:** User and Data Management, Security Management, Flows, Reports and Dashboards
-- **Tools:** VS Code, Git, GitHub, Jira, Copado
-
-## Technical Projects 🔧
-
-### Grades Assessment
-- Developed a Salesforce community for grade assessments, integrating Visualforce and Apex, with robust security configurations.
-- Created dynamic Reports and Dashboards for visualizing grades and supporting decision-making processes.
-
-### Relief System
-- Developed a full-stack application for patient coordination using Java Swing, employing MVC, Singleton, and Abstract Factory design patterns to enhance system architecture and usability.
+- **Machine Learning:** Statistical Analysis, Regression, Classification, Clustering, Predictive Analytics Model
+- **Libraries and Packages:** Pandas, NumPy, Plotly, NLTK, Scikit-Learn, PyTorch, H20.ai, TensorFlow, Keras, TextBlob
+- **Programming Languages:** Python, SQL, NoSQL, HTML, CSS
+- **Orchestration Tools:** Talend, Alteryx, Airflow
+- **Analytics/Reporting:** Tableau, PowerBI, Navicat Data Modeler
+- **Databases:** MongoDB, MS SQL Server, MySQL, Big Query, Pinecone Vector Database
 
 ## Publications 📖
 
