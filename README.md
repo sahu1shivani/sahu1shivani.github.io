@@ -18,19 +18,16 @@
 ## Work Experience 👩‍💻
 
 ### Research Assistant (Part-time)
-**Northeastern University**, Boston  
-_Jul 2023 - Dec 2023_  
+**Northeastern University**, Boston    _Jul 2023 - Dec 2023_  
 - Researched and presented detailed reports on Diversity Equity and Inclusion measures across New England’s Universities using SQL, Python, and PowerBI.
 
 ### Software Engineer - Cloud Services and Software in Salesforce (SFDC)
-**LTIMindtree**, Pune, India  
-_Apr 2020 - May 2022_  
+**LTIMindtree**, Pune, India    _Apr 2020 - May 2022_  
 - Developed a Salesforce-driven merchandise retail web application, integrating Apex, JavaScript, SOQL, and Lightning components with seamless front end-back end integration.
 - Automated data migration processes from Salesforce Classic to Lightning, enhancing system efficiency and reducing manual efforts by 50%.
 
 ### Associate Software Engineer - Salesforce
-**LTIMindtree**, Pune, India  
-_May 2019 - Apr 2020_  
+**LTIMindtree**, Pune, India    _May 2019 - Apr 2020_  
 - Enhanced system functionality using Salesforce tools like Process Builder, Workflow Rules, and Approval Flows.
 - Optimized database operations, achieving a 50% increase in report generation speed through SQL stored procedures and triggers.
 
@@ -59,6 +56,7 @@ _May 2019 - Apr 2020_
 
 ### Gender and Emotion Recognition 🧑👧
 - Developed a CNN-based model with transfer learning techniques to recognize gender and emotions from images, achieving 93% accuracy.
+- [Explore the Project Details](./CNN_based_model.html)
 
 ### Image Captioning with VGG16 📸📝
 - Implemented an image captioning system combining a CNN encoder based on InceptionV3 and a Transformer-based decoder, trained on the MS COCO dataset.
