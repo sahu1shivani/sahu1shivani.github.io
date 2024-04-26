@@ -1,6 +1,6 @@
 # Shivani Sahu
 
-I am passionate about working with Machine Learning algorithms ,Computer Vision(Image Processing)and build Health care domain prediction model using Neural networks.
+### I am passionate about working with Machine Learning algorithms,Computer Vision(Image Processing)and build Healthcare domain prediction model using Neural Networks.
 
 📍 **Location:** Boston, MA  
 📧 **Email:** sahu.shi@northeastern.edu  
