@@ -60,6 +60,7 @@
 
 ### Image Captioning with VGG16 📸📝
 - Implemented an image captioning system combining a CNN encoder based on InceptionV3 and a Transformer-based decoder, trained on the MS COCO dataset.
+- [Explore the Project Details](./Image_Captioning.html)
 
 ### Exploratory Data Analysis of FitBit Data 🏃‍♂️📊
 - Conducted a comprehensive analysis of FitBit data to explore user health trends, analyzing metrics like daily steps, sleep patterns, and calorie expenditure.
