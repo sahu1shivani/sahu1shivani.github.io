@@ -10,7 +10,8 @@
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Shivani Sahu
-description: "I am a grad student at Northeastern University specializing in Data Science and Analytics. I am passionate about working with Machine Learning algorithms ,Computer Vision(Image Processing)and build Health care domain prediction model using Neural networks"
+description: "I am a grad student at Northeastern University specializing in Data Science and Analytics."
+
 location: Boston, MA  
 mobile: (+1) 857-390-4920  
 email: sahu.shi@northeastern.edu  
