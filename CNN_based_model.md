@@ -55,6 +55,7 @@ print(f"The image is: {result}")
 ```
 
 ## Results 📊
+![Results](/img11.png)
 The model achieved a test accuracy of over 95%, demonstrating high efficacy in recognizing gender and emotional expressions from images.
 
 ## Future Work 🔮
