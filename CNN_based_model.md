@@ -1,5 +1,7 @@
 # Gender Image Recognition 🖼️
 
+![GIR](/img1.png)
+
 ## Overview 📄
 
 The **Gender Image Recognition** project is designed to classify images into four categories based on gender and emotional expression: HappyMale, HappyFemale, SadMale, and SadFemale. This system uses machine learning techniques to achieve accurate predictions with the help of pre-trained models and custom datasets.
