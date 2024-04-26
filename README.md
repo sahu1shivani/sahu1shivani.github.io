@@ -8,13 +8,11 @@
 ## Education 🎓
 
 ### Master of Science, Information Systems
-**Northeastern University**, Boston, MA  
-_Expected May 2024_  
+**Northeastern University**, Boston, MA  _May 2024_  
 **Related Coursework:** Software Development, Web Design and Development
 
 ### Bachelor of Engineering in Information Science
-**Visvesvaraya Technological University**, India  
-_May 2019_  
+**Visvesvaraya Technological University**, India  _May 2019_  
 **Related Coursework:** Data Structures and Algorithms, Java Programming, Design Patterns
 
 ## Work Experience 👩‍💻
