@@ -1,4 +1,4 @@
-# Gender Image Recognition Project 🖼️
+# Gender Image Recognition 🖼️
 
 ## Overview 📄
 
